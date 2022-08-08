@@ -1,5 +1,6 @@
 
 
+
 me= {'name':'Uthman muhammad ', 'address':'Unguwan sarki', 
         'number':'09013042149', 'age':13, 'dob':2009, 'pob':'Abuja',
             'work experience':'1 month', 'schools attented':'ilc schools'}
