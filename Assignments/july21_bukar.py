@@ -20,3 +20,8 @@ operation can be performed on it.
    /=
 7) The arithmetic operators perform addition, subtraction, multiplication, division, exponentiation, and modulus operations.
 '''
+
+
+
+first_name = 'musa'
+print(first_name)
